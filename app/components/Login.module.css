@@ -1,0 +1,21 @@
+.container {
+    
+    background: linear-gradient(
+        to right, 
+        white 0%,
+        white 50%,
+        purple 0%,
+        purple 50%,
+    );
+    border:300px solid #523592;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    height:500px;
+    position:relative;
+}
+
+.container img{
+    width: 500px;
+    display: flex;
+}

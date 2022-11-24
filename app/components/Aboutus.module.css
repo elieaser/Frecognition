@@ -1,0 +1,22 @@
+.container {
+    background-color: #523592;
+    align-items: stretch;
+    border:250px solid #523592;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height:100px;
+    position:relative;
+}
+
+.container img {
+    width: 300px;
+    display: flex;
+    
+}
+
+.container p {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
